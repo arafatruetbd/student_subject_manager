@@ -4,6 +4,7 @@ In order to start this Project,
 Run the Following Command:
 
 In Root File: yarn run server
-in Client file : yarn satrt
+
+In Client file : yarn start
 
 Before running the above command,Please insatll all dependencies.
